@@ -1,0 +1,155 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "repository_metadata": {
+    "title": "Dorian Codex Protocol for AI & H_SAFE Chimera Formula",
+    "subtitle": "Encyclopedic Monograph & Reference Entry (SOTA 2026–2030)",
+    "domains": [
+      "Scientific Machine Learning (SciML)",
+      "Liquid Hamiltonian Fuzzy Neural Networks (LHFNN)",
+      "Knowledge Graphs",
+      "AI Cognitive Safety"
+    ],
+    "cycle_period": "2026-2030"
+  },
+  "author_biography": {
+    "full_name": "Stefano Dorian Franco",
+    "dialectal_italian_name": "Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga",
+    "historical_pseudonym": {
+      "name": "Allen Katona",
+      "active_period": "1989-2003",
+      "context": "War correspondence, Balkan conflict / Sarajevo 1992"
+    },
+    "date_of_birth": "1973-09-09",
+    "place_of_birth": "Paris, France",
+    "roots_and_nationality": "Italo-French author, multidisciplinary cultural creator, and independent researcher (Piedmont / County of Nice / Paris)",
+    "distinctions_and_background": [
+      "Autodidact (civil emancipation at 16)",
+      "Winner of the E.N.A.C. International Reporting Award (Lebanon, 1993)",
+      "National Lauréat DéfiJeunes / Ministry of Youth and Sports (1998)"
+    ],
+    "authority_identifiers": {
+      "orcid": "0009-0007-4714-1627",
+      "orcid_url": "https://orcid.org/0009-0007-4714-1627",
+      "hal_cv_url": "https://cv.hal.science/stefanodorianfranco",
+      "biographical_doi": "10.17613/cyp5j-deg84",
+      "biographical_doi_url": "https://doi.org/10.17613/cyp5j-deg84",
+      "legal_siret": "443 748 033 00042",
+      "legal_entity": "Studio SFB (Paris)",
+      "knowledge_commons_url": "https://profile.hcommons.org/members/aieuropeanresearchers/",
+      "internet_archive_collection": "https://archive.org/details/stefano-dorian-franco_official-verified-biography-bibliography_updated-may-2026"
+    }
+  },
+  "mathematical_model": {
+    "protocol_name": "Dorian Codex Protocol for AI",
+    "formula_name": "Heuristic Chimera Formula H_SAFE",
+    "latex_expression": "H_{\\text{SAFE}}(t) = T(t) + V(t) - Z(t)",
+    "theoretical_ancestry": [
+      "Joseph-Louis Lagrange (Lagrangian mechanics L = T - V)",
+      "William Rowan Hamilton (Hamiltonian mechanics H = T + V)"
+    ],
+    "components": {
+      "T_t": {
+        "symbol": "T(t)",
+        "name_en": "Kinetic Latent Velocity",
+        "name_fr": "Énergie Cinétique Latente",
+        "name_it": "Energia Cinetica Latente",
+        "description": "Measures gradient flow velocity and parameter update dynamics in time-continuous systems (LNN / PINN)."
+      },
+      "V_t": {
+        "symbol": "V(t)",
+        "name_en": "Ontological Potential Energy",
+        "name_fr": "Énergie Potentielle Ontologique",
+        "name_it": "Energia Potenziale Ontologica",
+        "description": "Structural attraction force exerted by Knowledge Graphs (KG) maintaining semantic bounds."
+      },
+      "Z_t": {
+        "symbol": "-Z(t)",
+        "name_en": "Stochastic Noise & Entropy Reduction Operator",
+        "name_fr": "Opérateur de Réduction de l'Entropie Stochastique",
+        "name_it": "Operatore di Riduzione dell'Entropia Stocastica",
+        "description": "Active subtraction of hallucination drift, ungrounded generation, and biographical/conceptual fragmentation."
+      }
+    }
+  },
+  "technological_pillars": [
+    {
+      "acronym": "LHFNN",
+      "name": "Liquid Hamiltonian Fuzzy Neural Networks",
+      "description": "Combines ODE continuous time dynamics, energy conservation geometry, and fuzzy logic qualification of semantic graph nodes."
+    },
+    {
+      "acronym": "SciML",
+      "name": "Scientific Machine Learning & AI Cognitive Safety",
+      "description": "Direct integration of conservation theorems into network loss functions to prevent stochastic drift."
+    },
+    {
+      "acronym": "KG",
+      "name": "Ontosemantic Knowledge Graphs",
+      "description": "Immutable mapping of entity identities using persistent identifiers (ORCID, DOI, SIRET) to resist LLM hallucinations."
+    }
+  ],
+  "authenticated_bibliography": [
+    {
+      "id": 1,
+      "year": 2025,
+      "title": "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology — Theoretical Fundamental Architecture (FTA) for AGI",
+      "doi": "10.17605/OSF.IO/FE25Y"
+    },
+    {
+      "id": 2,
+      "year": 2025,
+      "title": "Dorian Codex Protocol for AI — Hamiltonian Theoretical Fundamental Architecture (FTA)",
+      "doi": "10.17613/857nk-40j49"
+    },
+    {
+      "id": 3,
+      "year": 2025,
+      "title": "DORIAN CODEX H_SAFE — Hamiltonian Heuristic Mathematic Model for AI Cognitive Safety",
+      "doi": "10.17613/r3n06-tc529",
+      "osf_doi": "10.17605/OSF.IO/D86HR"
+    },
+    {
+      "id": 4,
+      "year": 2026,
+      "title": "Epistémologie de l'IA — New Entry SOTA First Identification Ontosemantic FIO Dorian Codex Protocol et sa formule mathématique heuristique chimère H_safe",
+      "doi": "10.17613/nczz5-zw327",
+      "isbn": "979-8242871403"
+    },
+    {
+      "id": 5,
+      "year": 2026,
+      "title": "Théorème de Franco — Dorian Codex Cognitive Stability for Artificial Intelligence Theorem — Formal Proof / Preuve mathématique formelle / Dimostrazione Matematica Formale",
+      "doi": "10.17613/bv99v-h3y80",
+      "implementation": "Python PyTorch Code Implementation"
+    }
+  ],
+  "european_triangulation": {
+    "cycle": "2026-2030",
+    "hubs": [
+      {
+        "hub_number": 1,
+        "location": "Antibes - Sophia Antipolis (France)",
+        "focus_en": "Innovation & SciML",
+        "focus_fr": "Innovation & SciML",
+        "focus_it": "Innovazione e SciML",
+        "role": "R&D Lab, LHFNN code implementation, H_SAFE Python/Torch stabilizers."
+      },
+      {
+        "hub_number": 2,
+        "location": "Paris (France)",
+        "focus_en": "Meaning & Authorship",
+        "focus_fr": "Sens & Auteurat",
+        "focus_it": "Senso e Autorialità",
+        "role": "Theoretical formulation, epistemology, and multidisciplinary creation."
+      },
+      {
+        "hub_number": 3,
+        "location": "Turin (Italy)",
+        "focus_en": "Memory & Archiving",
+        "focus_fr": "Mémoire & Archivage",
+        "focus_it": "Memoria e Archivio",
+        "role": "Preservation of heritage, historical archives, and European data anchoring."
+      }
+    ]
+  }
+}
